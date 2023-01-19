@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.29.2",
+    "@types/cucumber": "^7.0.0",
+    "cucumber": "^6.0.7",
+    "ts-node": "^10.9.1"
+  },
+  "scripts": {
+    "test": "npx cucumber-js"
+  }
+}
